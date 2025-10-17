@@ -1,6 +1,9 @@
 # wii-games
 With the simple script you can download games for the Wii. The prerequisite for this is the homebrew channel of a jailbroken Wii. Only EU games are downloaded in this configuration. For US games, the xml_url for the US file must be adapted.
 
+# INFO
+Due to copyright infringements, Archive.org had to take the files offline. This application therefore does not work. This repo will be archived accordingly.
+
 # How to
 - Make sure that Python 3.x is installed on your system. Download the Python files. Create a folder in which the games are to be saved. Then you can execute the Python files. <br>
 - To make the games usable for the Wii you need the Wii-Backup-Manager. You can download it <a href="https://wiidatabase.de/downloads/pc-tools/wii-backup-manager/">here.</a> I am uploading the current version of the Wii Backup Manager in case the source does not work.
